@@ -1,10 +1,13 @@
 <!doctype html>
 <html lang="en">
 	<head>
+		<script id="scroll" onmousedown="mouseDown()" onmouseup="mouseUp()">Scroll up or down.</script>
 		<title>Java Script challenge</title>
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!--Java Script tag-->
+		<script rel="javascript/script.js" src="script.js"></script>
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
@@ -12,7 +15,7 @@
 	<body>
 		<div class="jumbotron jumbotron-fluid">
 			<div class="container">
-				<h1 class="display-3">Fluid jumbotron</h1>
+				<h1 class="display-3">JavaScriptEvents</h1>
 				</div>
 			</div>
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
