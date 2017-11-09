@@ -4,7 +4,7 @@
 		<
 		<title>Java Script challenge</title>
 		<!--Java Script tag-->
-		<script type="text/javascript" rel="script" src="JS/events.js"></script>
+		<script type="text/javascript" rel="script" src="script.js"></script>
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -59,6 +59,9 @@
 					non aliquet sem malesuada at. Aliquam erat volutpat. Nunc urna tellus, dapibus id metus non, sollicitudin
 					malesuada nunc. Donec in mollis ligula. Proin finibus ut neque eget dictum. Phasellus facilisis sem sit
 					amet diam viverra rhoncus.</p>
+					<button type="button" class="btn btn-primary">
+
+					</button>
 				</div>
 			</div>
 		</section>
