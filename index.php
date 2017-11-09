@@ -24,8 +24,8 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
 		<section>
-			<div id= sec1 class="container-fluid">
-				<div class="p-3 mb-2 bg-secondary text-white">.bg-secondary>
+			<div id= "sec1" class="container-fluid">
+				<div class="p-3 mb-2 bg-secondary text-white">
 				<P>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum mattis sagittis.
 					Quisque in lobortis tortor, vel aliquam libero. In ornare, nunc ut placerat aliquam, odio odio venenatis
 					magna, sed vestibulum urna metus id mauris. Duis ac consequat libero, in aliquam lacus.
@@ -36,8 +36,8 @@
 		</section>
 
 		<section>
-			<div id= sec2 class="container-fluid">
-				<div class="p-3 mb-2 bg-secondary text-white">.bg-secondary>
+			<div id= "sec2" class="container-fluid"">
+				<div class="p-3 mb-2 bg-secondary text-white">
 				<p>Donec et ultricies magna, nec varius mi. Sed volutpat tellus ac arcu mollis vestibulum. Aenean tempus
 					porttitor vulputate. Maecenas et tellus vel dolor ultricies maximus in sit amet magna. Vestibulum ante
 					ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum ante ipsum primis in
@@ -51,17 +51,15 @@
 		</section>
 
 		<section>
-			<div id= sec3 class="container-fluid">
-				<div class="p-3 mb-2 bg-secondary text-white">.bg-secondary>
-				<p>Pellentesque est odio, tempus sed pulvinar a, luctus id nibh. Fusce tristique iaculis lacinia.
+			<div id= "sec3" class="container-fluid">
+				<div class="p-3 mb-2 bg-secondary text-white">
+				<p> Pellentesque est odio, tempus sed pulvinar a, luctus id nibh. Fusce tristique iaculis lacinia.
 					Etiam dignissim lectus turpis, in dictum erat elementum eu. Curabitur venenatis metus leo, vitae
 					scelerisque elit tincidunt sed. Nullam et lacus vel erat porttitor interdum. Nulla egestas sapien purus,
 					non aliquet sem malesuada at. Aliquam erat volutpat. Nunc urna tellus, dapibus id metus non, sollicitudin
 					malesuada nunc. Donec in mollis ligula. Proin finibus ut neque eget dictum. Phasellus facilisis sem sit
 					amet diam viverra rhoncus.</p>
-					<button type="button" class="btn btn-primary">
-
-					</button>
+					<button type="button" onclick="myFunction()">Set text color</button>
 				</div>
 			</div>
 		</section>
