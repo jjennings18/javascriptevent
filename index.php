@@ -59,7 +59,9 @@
 					non aliquet sem malesuada at. Aliquam erat volutpat. Nunc urna tellus, dapibus id metus non, sollicitudin
 					malesuada nunc. Donec in mollis ligula. Proin finibus ut neque eget dictum. Phasellus facilisis sem sit
 					amet diam viverra rhoncus.</p>
+					<button type="button" onclick="myFunction1()">Set font</button>
 					<button type="button" onclick="myFunction()">Set text color</button>
+
 				</div>
 			</div>
 		</section>
